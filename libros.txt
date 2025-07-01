@@ -1,0 +1,4 @@
+Frankenstein;Mary Shelley;false
+Orgullo y prejuicio;Jane Austen;false
+La divina comedia;Dante Alighieri;false
+Don Quijote;Cervantes;false
